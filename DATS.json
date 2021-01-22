@@ -22,8 +22,9 @@
     "distributions": [
 	        {
 			"formats": [
-				"MINC"
-            		],
+				"MINC",
+				"NIfTI"
+            ],
 			"size" : 633,
 		        "unit" : {
             			"value": "MB"
