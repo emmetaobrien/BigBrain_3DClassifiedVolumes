@@ -24,7 +24,7 @@
 			"formats": [
 				"MINC"
             		],
-			"size" : 606,
+			"size" : 633,
 		        "unit" : {
             			"value": "MB"
 		        },
@@ -106,7 +106,7 @@
 			"category": "files",
 			"values": [
 				{
-					"value": "23"
+					"value": "215"
 				}
 			]
 		},
