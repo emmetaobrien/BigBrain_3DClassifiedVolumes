@@ -13,7 +13,7 @@ The BigBrain is the digitized reconstruction of the hi-res histological sections
 This dataset contains 3D classified volumes from the BigBrain release 2015
 published in the [BigBrain Project website](https://bigbrainproject.org).
 
-The volumes are available for several isotropic resolutions (100, 200, 300 and 400um) and classified for basic tissue classes:
+The volumes are available for several isotropic resolutions (100, 200, 300 and 400 microns) and classified for basic tissue classes:
 
 - 0: background
 - 1: CSF
